@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Charlotte</string>
+    <string name="homepage">
+        Where would you like to start?
+
+    </string>
+
+    <string name="first_button">Browse Events</string>
+    <string name="second_button">View Map</string>
+    <string name="third_button">My Calender</string>
+    <string name="fourth_button">City Info</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_city_info">City Info</string>
+    <string name="weather_button">Weather</string>
+    <string name="aw_button">Air/Water</string>
+    <string name="traffic_button">Traffic</string>
+    <string name="flights_button">Flights</string>
+    <string name="br_button">Bus Routes</string>
+    <string name="cu_button">Contact Us</string>
+
+
+</resources>
